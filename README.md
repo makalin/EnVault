@@ -11,6 +11,11 @@ EnVault is a secure, cross-platform application designed to manage and synchroni
 - **CLI & GUI**: Choose between a command-line interface or a graphical user interface.
 - **Integration**: Easily integrate with CI/CD pipelines and popular development tools.
 
+## GitHub Appeal
+- **Security-Conscious Developers**: EnvVault ensures that sensitive data is always encrypted, both at rest and in transit.
+- **Open Source**: Developers can contribute to the project, making it better for everyone.
+- **Ease of Use**: Simplifies the management of environment variables, reducing the risk of human error.
+
 ## Project Structure
 ```
 envault/
