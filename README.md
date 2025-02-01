@@ -44,8 +44,8 @@ envault/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/makalin/envault.git
-   cd envvault
+   git clone https://github.com/makalin/EnVault.git
+   cd EnVault
    ```
 
 2. Install the required dependencies:
